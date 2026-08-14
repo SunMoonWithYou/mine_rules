@@ -1,15 +1,15 @@
 # NAME: 直连规则
 # UPDATED: 2026年8月14日
 payload:
-  - DOMAIN-SUFFIX,,sub.v2too.top
-  - DOMAIN-SUFFIX,,emby-ct.v2too.top
-  - DOMAIN-SUFFIX,,emby-cm.v2too.top
-  - DOMAIN-SUFFIX,,emby-cu.v2too.top
-  - DOMAIN-SUFFIX,,emby-bsy4837.v2too.top
-  - DOMAIN-SUFFIX,,mygcdn.mobaiemby.site
-  - DOMAIN-SUFFIX,,mm.o7o7.cn
-  - DOMAIN-SUFFIX,,lilyemby.com
-  - DOMAIN-SUFFIX,,lilyemby.cc
-  - DOMAIN-SUFFIX,,lilyya.top
-  - DOMAIN-SUFFIX,,postkf.com
-  - DOMAIN-SUFFIX,,filedownload.helo.de5.net
+  - DOMAIN-SUFFIX,sub.v2too.top
+  - DOMAIN-SUFFIX,emby-ct.v2too.top
+  - DOMAIN-SUFFIX,emby-cm.v2too.top
+  - DOMAIN-SUFFIX,emby-cu.v2too.top
+  - DOMAIN-SUFFIX,emby-bsy4837.v2too.top
+  - DOMAIN-SUFFIX,mygcdn.mobaiemby.site
+  - DOMAIN-SUFFIX,mm.o7o7.cn
+  - DOMAIN-SUFFIX,lilyemby.com
+  - DOMAIN-SUFFIX,lilyemby.cc
+  - DOMAIN-SUFFIX,lilyya.top
+  - DOMAIN-SUFFIX,postkf.com
+  - DOMAIN-SUFFIX,filedownload.helo.de5.net
