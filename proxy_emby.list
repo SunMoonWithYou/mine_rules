@@ -1,0 +1,8 @@
+# NAME: emby代理规则
+# UPDATED: 2026年8月14日
+
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN-SUFFIX,free.lilyemby.com
+DOMAIN-SUFFIX,www.lilyemby.com
+DOMAIN-SUFFIX,zhezhi.art
+DOMAIN-SUFFIX,origamiart.uk
