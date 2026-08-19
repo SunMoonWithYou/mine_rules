@@ -1,7 +1,8 @@
 # NAME: 直连规则
-# UPDATED: 2026年8月14日
+# UPDATED: 2026年8月19日
 payload:
   - DOMAIN-SUFFIX,sub.v2too.top
+  - DOMAIN-SUFFIX,ping.v2too.top
   - DOMAIN-SUFFIX,emby-ct.v2too.top
   - DOMAIN-SUFFIX,emby-cm.v2too.top
   - DOMAIN-SUFFIX,emby-cu.v2too.top
