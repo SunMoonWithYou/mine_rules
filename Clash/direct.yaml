@@ -5,10 +5,10 @@ payload:
   - DOMAIN-SUFFIX,node.v2too.top
   - DOMAIN-SUFFIX,ping.v2too.top
   - DOMAIN-SUFFIX,emby.v2too.top
-  - DOMAIN-SUFFIX,mygcdn.mobaiemby.site
-  - DOMAIN-SUFFIX,mm.o7o7.cn
-  - DOMAIN-SUFFIX,lilyemby.com
-  - DOMAIN-SUFFIX,lilyemby.cc
-  - DOMAIN-SUFFIX,lilyya.top
   - DOMAIN-SUFFIX,postkf.com
-  - DOMAIN-SUFFIX,filedownload.helo.de5.net
+  - DOMAIN-SUFFIX,mygcdn.mobaiemby.site
+  - IP-CIDR,37.123.192.219/32,DIRECT,no-resolve
+  - IP-CIDR,185.148.13.104/32,DIRECT,no-resolve
+  - IP-CIDR,185.148.13.13/32,DIRECT,no-resolve
+  - IP-CIDR,185.148.13.76/32,DIRECT,no-resolve
+  - IP-CIDR,185.148.13.30/32,DIRECT,no-resolve
