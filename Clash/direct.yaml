@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,emby.v2too.top
   - DOMAIN-SUFFIX,postkf.com
   - DOMAIN-SUFFIX,mygcdn.mobaiemby.site
+  - DOMAIN-SUFFIX,filedownload.helo.de5.net
   - IP-CIDR,37.123.192.219/32,DIRECT,no-resolve
   - IP-CIDR,185.148.13.104/32,DIRECT,no-resolve
   - IP-CIDR,185.148.13.13/32,DIRECT,no-resolve
