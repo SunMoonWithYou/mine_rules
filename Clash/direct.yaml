@@ -14,4 +14,3 @@ payload:
   - IP-CIDR,185.148.13.13/32,DIRECT,no-resolve
   - IP-CIDR,185.148.13.76/32,DIRECT,no-resolve
   - IP-CIDR,185.148.13.30/32,DIRECT,no-resolve
-  - IP-CIDR,185.148.13.250/32,DIRECT,no-resolve
